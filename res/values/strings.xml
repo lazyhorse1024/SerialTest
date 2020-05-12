@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">SericalTest</string>
+    <string name="send_hint">发送</string>
+    <string name="resend">重发</string>
+    <string name="receive_hint">接收</string>
+    <string name="success">串口通信成功！！！</string>
+    <string name="fail">串口通信失败！！！</string>
+    <string name="status">通信状态：</string>
+    <string name="send_data">skypine serialtest abcdefghijklmn</string>
+
+</resources>
